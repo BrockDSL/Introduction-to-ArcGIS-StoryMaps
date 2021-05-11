@@ -25,8 +25,7 @@ StoryMaps are broken down by ‘content blocks’. Click the plus sign to see th
 3.	All headers are included in the navigation bar at the top of the story.  
 4.	Copy and paste the introduction provided below:    
 
-Introduction:  
-On the 22nd of June, 1813, Laura was busy tending to the militia bunking at her homestead in the small town of Queenston. Being a woman, she was not suspected of espionage and so she learned of a sneak attack the Americans were planning later that week in Thorold. With her husband unwell, Laura resolutely decided to make the treacherous journey on her own to warn Lt. Fitzgibbon and save Upper Canada.  
+>Introduction: On the 22nd of June, 1813, Laura was busy tending to the militia bunking at her homestead in the small town of Queenston. Being a woman, she was not suspected of espionage and so she learned of a sneak attack the Americans were planning later that week in Thorold. With her husband unwell, Laura resolutely decided to make the treacherous journey on her own to warn Lt. Fitzgibbon and save Upper Canada.  
 
 ---
 
@@ -37,7 +36,7 @@ On the 22nd of June, 1813, Laura was busy tending to the militia bunking at her 
 4. Click the gears button to access options including alternative text for screen readers.  
 5. To the right of the map, +Continue your story by adding the text: 
 
-The map seen here depicts one interpretation of the route that Laura took on June 22, 1813. There were supposedly 5 phases: Queenston to St. Davids, St. Davids to Homer, Homer to Shipman’s Corners, Shipman’s Corners to Power Glen, Power Glen to Decew House
+>The map seen here depicts one interpretation of the route that Laura took on June 22, 1813. There were supposedly 5 phases: Queenston to St. Davids, St. Davids to Homer, Homer to Shipman’s Corners, Shipman’s Corners to Power Glen, Power Glen to Decew House
  
  
  ![introduction](./assets/image2.jpg)  

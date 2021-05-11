@@ -1,4 +1,4 @@
-![Tool Logo][imglogo]
+![storymaps_logo][storymaplogo.jpg]
 
 
 # Introduction to ArcGIS StoryMaps
@@ -11,7 +11,7 @@ ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrat
 4.	Navigate to the LauraSecordImages folder and select an image (TwelveMileCreek.jpg)  
 5.	Click Design at the top centre of the window. Explore the design options available. For example, change the cover settings, turn on Navigation (explained later) and select a Theme (Tidal).  
 
-![cover](cover.jpg)
+![cover](./assets/cover.jpg)
 
 NOTE: ArcGIS StoryMaps offers autosave every few seconds so there is no need to worry about losing your work.  
 

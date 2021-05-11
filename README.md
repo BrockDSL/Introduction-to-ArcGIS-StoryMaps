@@ -1,17 +1,40 @@
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# Introduction to ArcGIS StoryMaps
+ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrative content with your peers and the world. This tutorial provides a step-by-step instruction document introducing ArcGIS StoryMaps. The subject matter for this storymap includes multi-media pieces describing the treacherous journey Laura Secord took to save her country. Let’s get started!
 
-### First header
-Content
+### Section One
+1.	Go to https://storymaps.arcgis.com/ and sign in using your Brock University credentials. The home page will list any storymaps you’ve already created. If you’re new to the platform, get started by clicking +New Story > Start from scratch.
+2.	Add a title (Walking Laura’s Way) and subtitle (a story about Laura Secord’s famous journey)
+3.	At the top right of the workspace, click Add Cover Image or video     
+4.	Navigate to the LauraSecordImages folder and select an image (TwelveMileCreek.jpg)  
+5.	Click Design at the top centre of the window. Explore the design options available. For example, change the cover settings, turn on Navigation (explained later) and select a Theme (Tidal).  
 
-### Second Header
+![cover](cover.jpg)
 
-Content
+NOTE: ArcGIS StoryMaps offers autosave every few seconds so there is no need to worry about losing your work.  
 
-### Etc.
+### Section Two
+1.	Scroll down and begin telling the story of Laura Secord’s journey.  
+ 
+StoryMaps are broken down by ‘content blocks’. Click the plus sign to see the options available.  
+
+2.	Add text “Introduction” and format it as a heading. HINT: highlight the text to access formatting options.  
+3.	All headers are included in the navigation bar at the top of the story.  
+4.	Copy and paste the introduction provided below:    
+
+Introduction:  
+On the 22nd of June, 1813, Laura was busy tending to the militia bunking at her homestead in the small town of Queenston. Being a woman, she was not suspected of espionage and so she learned of a sneak attack the Americans were planning later that week in Thorold. With her husband unwell, Laura resolutely decided to make the treacherous journey on her own to warn Lt. Fitzgibbon and save Upper Canada.  
+
+### Section Three  
+1. Scroll down, click the plus sign and add an image (LauraSecordsWalk2.jpg).  
+2. Change the settings to float. 
+3. Add a caption "A map of Laura Secord's walk".  
+4. Click the gears button to access options including alternative text for screen readers.  
+5. To the right of the map, +Continue your story by adding the text: 
+
+The map seen here depicts one interpretation of the route that Laura took on June 22, 1813. There were supposedly 5 phases: Queenston to St. Davids, St. Davids to Homer, Homer to Shipman’s Corners, Shipman’s Corners to Power Glen, Power Glen to Decew House
  
  
  

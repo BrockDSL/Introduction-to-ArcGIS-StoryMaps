@@ -1,4 +1,4 @@
-![storymaps_logo][storymaplogo.jpg]
+![storymaps_logo][./assets/storymaplogo.jpg]
 
 
 # Introduction to ArcGIS StoryMaps
@@ -37,8 +37,12 @@ On the 22nd of June, 1813, Laura was busy tending to the militia bunking at her 
 The map seen here depicts one interpretation of the route that Laura took on June 22, 1813. There were supposedly 5 phases: Queenston to St. Davids, St. Davids to Homer, Homer to Shipman’s Corners, Shipman’s Corners to Power Glen, Power Glen to Decew House
  
  
- 
+ ![introduction](./assets/image2.jpg)  
 
+  ---
+  ### Section Four  
+ 1.	Click the plus icon and select the embed option. This feature allows you to paste a link to content such as this video https://youtu.be/_L-vL5NFkYA OR <iframe> code from another website. For example, you can embed content from an OMEKA site.  
+  ---
   
 **This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
   

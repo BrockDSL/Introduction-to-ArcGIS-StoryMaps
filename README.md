@@ -20,13 +20,11 @@ ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrat
 ---
 
 ### Section Two
-1.	Scroll down and begin telling the story of Laura Secord’s journey.  
- 
-StoryMaps are broken down by ‘content blocks’. Click the plus sign to see the options available.  
-
-2.	Add text “Introduction” and format it as a heading. HINT: highlight the text to access formatting options.  
-3.	All headers are included in the navigation bar at the top of the story.  
-4.	Copy and paste the introduction provided below:    
+1.	Scroll down and begin telling the story of Laura Secord’s journey. 
+2.	StoryMaps are broken down by ‘content blocks’. Click the plus sign to see the options available.  
+3.	Add text “Introduction” and format it as a heading. HINT: highlight the text to access formatting options.  
+4.	All headers are included in the navigation bar at the top of the story.  
+5.	Copy and paste the introduction provided below:    
 
 >Introduction: On the 22nd of June, 1813, Laura was busy tending to the militia bunking at her homestead in the small town of Queenston. Being a woman, she was not suspected of espionage and so she learned of a sneak attack the Americans were planning later that week in Thorold. With her husband unwell, Laura resolutely decided to make the treacherous journey on her own to warn Lt. Fitzgibbon and save Upper Canada.  
 
@@ -47,7 +45,7 @@ StoryMaps are broken down by ‘content blocks’. Click the plus sign to see th
   ---
 ### Section Four  
 
- 1.	Click the plus icon and select the embed option. This feature allows you to paste a link to content such as this video https://youtu.be/_L-vL5NFkYA OR <iframe> code from another website. For example, you can embed content from an OMEKA site.  
+ 1.	Click the plus icon and select the embed option. This feature allows you to paste a link to content such as this video [https://youtu.be/_L-vL5NFkYA](https://youtu.be/_L-vL5NFkYA) OR <iframe> code from another website. For example, you can embed content from an OMEKA site.  
 
 
   ---
@@ -58,12 +56,10 @@ StoryMaps are broken down by ‘content blocks’. Click the plus sign to see th
 2.	Click the plus icon and select Sidecar under the immersive section. A sidecar allows you to have a ‘main stage’ of content with a scrolling ‘sidecar’ of additional information.  
 3.	Select the ‘docked’ option.  
 4.	For the main stage on the right, add media > map  
-5.	Select My Organization tab and search for “Laura Secord’s Famous Walk to Thorold”.   
+5.	Select My Organization tab and search for “Laura Secord’s Famous Walk to Thorold”. 
+6.	Click the search result and click Place Map.   
 
  ![card](./assets/image3.jpg)  
-
-6. Click the search result and click Place Map. 
-
 
 ---
 
@@ -114,11 +110,10 @@ OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
   ---
   
 ### Section Nine  
-  
+
+![swipe](./assets/image5.jpg)
+
 1. Click the plus sign and add an immersive element called SWIPE.  
-  
- ![swipe](./assets/image5.jpg)  
-  
 2.	Click Add web map on the left and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910.  
 3.	Click Place map.   
 4.	Click Add web map on the right and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 so that just the route, destinations and basemap are showing.  

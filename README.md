@@ -5,11 +5,12 @@
 ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrative content with your peers and the world. This tutorial provides a step-by-step instruction document introducing ArcGIS StoryMaps. The subject matter for this storymap includes multi-media pieces describing the treacherous journey Laura Secord took to save her country. Let’s get started!
 
 ### Section One
-1.	Go to https://storymaps.arcgis.com/ and sign in using your Brock University credentials. The home page will list any storymaps you’ve already created. If you’re new to the platform, get started by clicking +New Story > Start from scratch.
-2.	Add a title (Walking Laura’s Way) and subtitle (a story about Laura Secord’s famous journey)
-3.	At the top right of the workspace, click Add Cover Image or video     
-4.	Navigate to the LauraSecordImages folder and select an image (TwelveMileCreek.jpg)  
-5.	Click Design at the top centre of the window. Explore the design options available. For example, change the cover settings, turn on Navigation (explained later) and select a Theme (Tidal).  
+1.	[Download and unzip the images file](https://github.com/BrockDSL/StoryMapDemo2/blob/master/LauraSecordImages.zip)
+2.	Go to [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and sign in using your Brock University credentials. The home page will list any storymaps you’ve already created. If you’re new to the platform, get started by clicking +New Story > Start from scratch.
+3.	Add a title (Walking Laura’s Way) and subtitle (a story about Laura Secord’s famous journey)
+4.	At the top right of the workspace, click Add Cover Image or video     
+5.	Navigate to the LauraSecordImages folder and select an image (TwelveMileCreek.jpg)  
+6.	Click Design at the top centre of the window. Explore the design options available. For example, change the cover settings, turn on Navigation (explained later) and select a Theme (Tidal).  
 
 ![cover](./assets/cover.jpg)
 

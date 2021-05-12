@@ -44,8 +44,11 @@ StoryMaps are broken down by ‘content blocks’. Click the plus sign to see th
  ![introduction](./assets/image2.jpg)  
 
   ---
-  ### Section Four  
+### Section Four  
+
  1.	Click the plus icon and select the embed option. This feature allows you to paste a link to content such as this video https://youtu.be/_L-vL5NFkYA OR <iframe> code from another website. For example, you can embed content from an OMEKA site.  
+
+
   ---
   
 ### Section Five  
@@ -130,14 +133,14 @@ OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
 1. Scroll down and click the plus icon to add a "Credits" heading.
 2. Copy and paste your list of credits to this paragraph section:
 
-> Twelve Mile Creek Painting | https://bit.ly/3eBkc7Q  
-Map of Laura Secord’s walk | https://bit.ly/3f9tZCn  
-Alun Hughes | https://bit.ly/3gKtYXP  
-Laura Secord’s Famous walk | https://bit.ly/3eGtsr0  
-Laura Secord, Legendary Patriot | https://bit.ly/3xxujmM  
-Crossing the Twelve | https://bit.ly/3t02gZN  
-Talking with Fitzgibbon Painting | Lorne Kidd Smith  
-Friends of Laura Secord | https://bit.ly/3eBlhfU  
+> Twelve Mile Creek Painting https://bit.ly/3eBkc7Q  
+> Map of Laura Secord’s walk https://bit.ly/3f9tZCn  
+> Alun Hughes https://bit.ly/3gKtYXP  
+> Laura Secord’s Famous walk https://bit.ly/3eGtsr0  
+> Laura Secord, Legendary Patriot https://bit.ly/3xxujmM  
+> Crossing the Twelve https://bit.ly/3t02gZN  
+> Talking with Fitzgibbon Painting Lorne Kidd Smith  
+> Friends of Laura Secord https://bit.ly/3eBlhfU  
 
 ---
 

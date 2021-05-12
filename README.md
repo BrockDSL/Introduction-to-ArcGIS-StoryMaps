@@ -48,16 +48,19 @@ StoryMaps are broken down by ‘content blocks’. Click the plus sign to see th
  1.	Click the plus icon and select the embed option. This feature allows you to paste a link to content such as this video https://youtu.be/_L-vL5NFkYA OR <iframe> code from another website. For example, you can embed content from an OMEKA site.  
   ---
   
-  ### Section Five  
+### Section Five  
+
 1.	Add text and format as a heading (“The 5 Phases of Laura’s Walk”)  
 2.	Click the plus icon and select Sidecar under the immersive section. A sidecar allows you to have a ‘main stage’ of content with a scrolling ‘sidecar’ of additional information.  
 3.	Select the ‘docked’ option.  
 4.	For the main stage on the right, add media > map  
 5.	Select My Organization tab and search for “Laura Secord’s Famous Walk to Thorold”.   
 
-![card](./assets/image3.jpg)  
+ ![card](./assets/image3.jpg)  
 
-6. Click the search result and click Place Map.  
+6. Click the search result and click Place Map. 
+
+
 ---
 
 

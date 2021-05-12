@@ -5,7 +5,7 @@
 ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrative content with your peers and the world. This tutorial provides a step-by-step instruction document introducing ArcGIS StoryMaps. The subject matter for this storymap includes multi-media pieces describing the treacherous journey Laura Secord took to save her country. Let’s get started!
 
 ### Section One
-1.	[Download and unzip the images file](https://github.com/BrockDSL/StoryMapDemo2/blob/master/LauraSecordImages.zip)
+1.	[Download and unzip the images file](https://github.com/BrockDSL/StoryMapDemo2/blob/master/LauraSecordImages.zip).
 2.	Go to [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and sign in using your Brock University credentials. The home page will list any storymaps you’ve already created. If you’re new to the platform, get started by clicking +New Story > Start from scratch.
 3.	Add a title (Walking Laura’s Way) and subtitle (a story about Laura Secord’s famous journey)
 4.	At the top right of the workspace, click Add Cover Image or video     
@@ -129,14 +129,14 @@ OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
 1. Scroll down and click the plus icon to add a "Credits" heading.
 2. Copy and paste your list of credits to this paragraph section:
 
-> Twelve Mile Creek Painting https://bit.ly/3eBkc7Q  
-> Map of Laura Secord’s walk https://bit.ly/3f9tZCn  
-> Alun Hughes https://bit.ly/3gKtYXP  
-> Laura Secord’s Famous walk https://bit.ly/3eGtsr0  
-> Laura Secord, Legendary Patriot https://bit.ly/3xxujmM  
-> Crossing the Twelve https://bit.ly/3t02gZN  
-> Talking with Fitzgibbon Painting Lorne Kidd Smith  
-> Friends of Laura Secord https://bit.ly/3eBlhfU  
+> Twelve Mile Creek Painting [https://bit.ly/3eBkc7Q](https://bit.ly/3eBkc7Q)  
+> Map of Laura Secord’s walk [https://bit.ly/3f9tZCn](https://bit.ly/3f9tZCn)  
+> Alun Hughes [https://bit.ly/3gKtYXP](https://bit.ly/3gKtYXP)  
+> Laura Secord’s Famous walk [https://bit.ly/3eGtsr0](https://bit.ly/3eGtsr0)  
+> Laura Secord, Legendary Patriot [https://bit.ly/3xxujmM](https://bit.ly/3xxujmM)  
+> Crossing the Twelve [https://bit.ly/3t02gZN](https://bit.ly/3t02gZN)  
+> Talking with Fitzgibbon Painting, Lorne Kidd Smith  
+> Friends of Laura Secord [https://bit.ly/3eBlhfU](https://bit.ly/3eBlhfU)  
 
 ---
 

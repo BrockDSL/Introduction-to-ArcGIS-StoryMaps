@@ -85,23 +85,66 @@ OPTIONAL: insert image “Crossing-the-Twelve.jpg”
 
 > Phase Four: Shipman’s Corners to Power Glen  
 > Having descended the banks of the Twelve and crossed over to the southwest side, Laura likely ascended the embankment to follow the trail (Pelham Rd) to Power Glen. Although this route is indeed circuitous, there is no doubt she consulted her husband and brother regarding the journey. At first glance, we may wonder why she didn't take a more direct route, but there were enemy troops to consider.  
+
 > Phase Five: Power Glen to Decew House  
 > The final leg of her journey would've been arduous, to say the least. The terrain would've been hilly and forested with another crossing of the Twelve Mile Creek, this time by a fallen tree, rather than a sturdy bridge! And then to face the Indians! After describing her plight, she was escorted to Decew House and shared her intel with Lt. Fitzgibbon. Imagine the exhaustion! And how did she get back home? 
 OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
 
+---
+
+### Section Eight  
+
+1.	Scroll down until you see the plus sign below the sidecar element.  
+2.	Insert text, “Historical Maps” and format it as a heading.  
+3.	Click the plus sign and add a map. Search My Organization “Laura Secord’s Famous Walk to Thorold”. Select the map and when you see the layer listing on the left, click the eye icon to turn off the Niagara 1862 map and turn on the Niagara 1818 map.   
+4.	Click Place Map.  
 
 
+![placemap](./assets/image4.jpg)  
+
+  ---
   
+### Section Nine  
   
+1. Click the plus sign and add an immersive element called SWIPE.  
   
+ ![swipe](./assets/image5.jpg)  
   
-  
-  
-  
-  
-  
-  
-  
+2.	Click Add web map on the left and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910.  
+3.	Click Place map.   
+4.	Click Add web map on the right and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 so that just the route, destinations and basemap are showing.  
+5.	Click Place map.  
+6.	Resize the map to medium or large (hint, rest the mouse over the swipe window to see the sizing options.  
+
+![swipemap](./assets/image6.jpg) 
+
+---
+
+### Section Ten  
+
+1. Scroll down and click the plus icon to add a "Credits" heading.
+2. Copy and paste your list of credits to this paragraph section:
+
+> Twelve Mile Creek Painting | https://bit.ly/3eBkc7Q  
+Map of Laura Secord’s walk | https://bit.ly/3f9tZCn  
+Alun Hughes | https://bit.ly/3gKtYXP  
+Laura Secord’s Famous walk | https://bit.ly/3eGtsr0  
+Laura Secord, Legendary Patriot | https://bit.ly/3xxujmM  
+Crossing the Twelve | https://bit.ly/3t02gZN  
+Talking with Fitzgibbon Painting | Lorne Kidd Smith  
+Friends of Laura Secord | https://bit.ly/3eBlhfU  
+
+---
+
+### Finishing Touches  
+
+ArcGIS StoryMaps offer various preview options (desktop, tablet, mobile). See how your story behaves using each option.  
+1.	At the top of the editor window, click Preview.  
+2.	Click Edit Story to return to the Editor.  
+3.	Click Publish and set the sharing option to Everyone (Public) then click Publish story.  
+When a storymap has been shared publicly, there will be links to various social media for sharing.  
+
+---
   
   
   

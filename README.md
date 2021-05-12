@@ -72,7 +72,23 @@ StoryMaps are broken down by ‘content blocks’. Click the plus sign to see th
 
 ---
 
-###Section Seven  
+### Section Seven  
+
+Repeat section six for each of the phases, adjusting the map action to suit the particular phase. Details below:  
+
+> Phase Two: St. Davids to Homer 
+> Historical maps show the most direct route would've been via Queenston Rd although some would argue that York Rd was the more popular link. At any rate, this segment of the journey included reference to the "Black Swamp". The map below depicts the region in 1818 with labels and symbols for swamp landcover. Although the landscape has changed significantly, it is a fact that there were many streams and rivers indicative of low-lying land and perhaps 'swamp-like' terrain.
+
+> Phase Three: Homer to Shipman’s Corners  
+> Having lost her travel companions (documents indicate that Elizabeth turned back at Homer and likely brought the cow with her), Laura continued over Ten Mile Creek toward St. Catharines and Shipman's Corners (modern day Ontario St and St Paul St). At this point, she would face crossing Twelve Mile Creek and likely used a 'low level' bridge.  
+OPTIONAL: insert image “Crossing-the-Twelve.jpg”  
+
+> Phase Four: Shipman’s Corners to Power Glen  
+> Having descended the banks of the Twelve and crossed over to the southwest side, Laura likely ascended the embankment to follow the trail (Pelham Rd) to Power Glen. Although this route is indeed circuitous, there is no doubt she consulted her husband and brother regarding the journey. At first glance, we may wonder why she didn't take a more direct route, but there were enemy troops to consider.  
+> Phase Five: Power Glen to Decew House  
+> The final leg of her journey would've been arduous, to say the least. The terrain would've been hilly and forested with another crossing of the Twelve Mile Creek, this time by a fallen tree, rather than a sturdy bridge! And then to face the Indians! After describing her plight, she was escorted to Decew House and shared her intel with Lt. Fitzgibbon. Imagine the exhaustion! And how did she get back home? 
+OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
+
 
 
   

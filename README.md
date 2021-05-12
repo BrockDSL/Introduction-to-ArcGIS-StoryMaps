@@ -13,7 +13,9 @@ ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrat
 
 ![cover](./assets/cover.jpg)
 
-NOTE: ArcGIS StoryMaps performs *autosave* every few seconds.  
+ 
+ NOTE: ArcGIS StoryMaps performs *autosave* every few seconds.  
+ 
 ---
 
 ### Section Two

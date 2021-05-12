@@ -1,4 +1,4 @@
-![storymaps_logo][./assets/storymaplogo.jpg]
+![storymaps_logo][./assets/storymaplogo.png]
 
 
 # Introduction to ArcGIS StoryMaps
@@ -169,4 +169,4 @@ You can also find us on:
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
-[imglogo]: INSERT LOGO FILENAME HERE
+![TwelveMileCreekPainting](./assets/image7.jpg)

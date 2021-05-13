@@ -115,9 +115,9 @@ Inserting swipe map content.
 ![swipe](./assets/image5.jpg)
 
 1. Click the plus sign and add an immersive element called SWIPE.  
-2.	Click Add web map on the left and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910.  
+2.	Click Add web map on the LEFT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910.  
 3.	Click Place map.   
-4.	Click Add web map on the right and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 so that just the route, destinations and basemap are showing.  
+4.	Click Add web map on the RIGHT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 so that just the route, destinations and basemap are showing.  
 5.	Click Place map.  
 6.	Resize the map to medium or large (hint, rest the mouse over the swipe window to see the sizing options.  
 

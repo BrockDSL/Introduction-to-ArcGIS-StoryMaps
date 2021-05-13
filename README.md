@@ -151,7 +151,9 @@ When a storymap has been shared publicly, there will be links to various social 
 
 ---
   
-  
+This tutorial was written by Sharon Janzen, sjanzen@brocku.ca
+
+---
   
   
   

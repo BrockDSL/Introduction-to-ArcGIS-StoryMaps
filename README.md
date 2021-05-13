@@ -68,7 +68,7 @@ ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrat
 
 1.	On the sidecar panel to the left of the map, add text “Queenston to St. Davids” and format it as a subheading.  
 2.	Below the subheading, click the plus sign and select Map Action.    
-3.	Describe this map actions as “Phase One”.  
+3.	Describe this map action as “Phase One”.  
 4.	Click the pencil icon   to activate the map options. Zoom to Phase One of the route (indicated by the purple line on the map).  
 5.	Click Save action at the bottom right of the window.  
 6.	Below the Phase One button, add a paragraph of text describing phase one: 
@@ -92,7 +92,7 @@ OPTIONAL: insert image “Crossing-the-Twelve.jpg”
 > Having descended the banks of the Twelve and crossed over to the southwest side, Laura likely ascended the embankment to follow the trail (Pelham Rd) to Power Glen. Although this route is indeed circuitous, there is no doubt she consulted her husband and brother regarding the journey. At first glance, we may wonder why she didn't take a more direct route, but there were enemy troops to consider.  
 
 > Phase Five: Power Glen to Decew House  
-> The final leg of her journey would've been arduous, to say the least. The terrain would've been hilly and forested with another crossing of the Twelve Mile Creek, this time by a fallen tree, rather than a sturdy bridge! And then to face the Indians! After describing her plight, she was escorted to Decew House and shared her intel with Lt. Fitzgibbon. Imagine the exhaustion! And how did she get back home? 
+> The final leg of her journey would've been arduous, to say the least. The terrain would've been hilly and forested with another crossing of the Twelve Mile Creek, this time by a fallen tree, rather than a sturdy bridge! And then to face the Indians! After describing her plight, she was escorted to Decew House and shared her intel with Lt. Fitzgibbon. Imagine the exhaustion! And how did she get back home?  
 OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
 
 ---

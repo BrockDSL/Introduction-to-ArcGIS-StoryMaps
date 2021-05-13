@@ -111,6 +111,7 @@ OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
   
 ### Section Nine  
 
+Inserting swipe map content.  
 ![swipe](./assets/image5.jpg)
 
 1. Click the plus sign and add an immersive element called SWIPE.  

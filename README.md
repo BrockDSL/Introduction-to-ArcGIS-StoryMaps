@@ -2,7 +2,9 @@
 
 
 # Introduction to ArcGIS StoryMaps
-ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrative content with your peers and the world. This tutorial provides a step-by-step instruction document introducing ArcGIS StoryMaps. The subject matter for this storymap includes multi-media pieces describing the treacherous journey Laura Secord took to save her country. For inspiration, watch this heritage minute video [https://youtu.be/_L-vL5NFkYA](https://youtu.be/_L-vL5NFkYA) Let’s get started!
+ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrative content with your peers and the world. This tutorial provides a step-by-step instruction document introducing ArcGIS StoryMaps. The subject matter for this storymap includes multi-media pieces describing the treacherous journey Laura Secord took to save her country. For inspiration, watch this heritage minute video [https://youtu.be/_L-vL5NFkYA](https://youtu.be/_L-vL5NFkYA)  
+
+Let’s get started!
 
 ### Section One
 1.	[Download and unzip the images file](https://github.com/BrockDSL/StoryMapDemo2/blob/master/LauraSecordImages.zip).

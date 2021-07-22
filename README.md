@@ -11,7 +11,7 @@ Let’s get started!
 2.	Go to [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and sign in using your Brock University credentials. The home page will list any storymaps you’ve already created. If you’re new to the platform, get started by clicking +New Story > Start from scratch.
 3.	Add a title (Walking Laura’s Way) and subtitle (a story about Laura Secord’s famous journey)
 4.	At the top right of the workspace, click Add Cover Image or video     
-5.	Navigate to the LauraSecordImages folder and select an image (TwelveMileCreek.jpg)  
+5.	Navigate to the LauraSecordImages folder and select an image (TwelveMileCreekPainting.jpg)  
 6.	Click Design at the top centre of the window. Explore the design options available. For example, change the cover settings, turn on Navigation (explained later) and select a Theme (Tidal).  
 
 ![cover](./assets/cover.jpg)
@@ -33,7 +33,7 @@ Let’s get started!
 ---
 
 ### Section Three  
-1. Scroll down, click the plus sign and add an image (LauraSecordsWalk2.jpg).  
+1. Scroll down, click the plus sign and add an image (MapLauraSecordsWalk.jpg).  
 2. Change the settings to float. 
 3. Add a caption "A map of Laura Secord's walk".  
 4. Click the gears button to access options including alternative text for screen readers.  
@@ -56,10 +56,11 @@ Let’s get started!
 
 1.	Add text and format as a heading (“The 5 Phases of Laura’s Walk”)  
 2.	Click the plus icon and select Sidecar under the immersive section. A sidecar allows you to have a ‘main stage’ of content with a scrolling ‘sidecar’ of additional information.  
-3.	Select the ‘docked’ option.  
-4.	For the main stage on the right, add media > map  
+3.	Select the ‘docked’ option. Click Done.   
+4.	For the main stage on the right, Add media > Add map  
 5.	Select My Organization tab and search for “Laura Secord’s Famous Walk to Thorold”. 
-6.	Click the search result and click Place Map.   
+6. Click the star to add the map to your favourites.  
+7.	Click the search result and click Place Map.   
 
  ![card](./assets/image3.jpg)  
 
@@ -83,7 +84,7 @@ Let’s get started!
 
 Repeat section six for each of the phases, adjusting the map action to suit the particular phase. Details below:  
 
-> Phase Two: St. Davids to Homer 
+> Phase Two: St. Davids to Homer  
 > Historical maps show the most direct route would've been via Queenston Rd although some would argue that York Rd was the more popular link. At any rate, this segment of the journey included reference to the "Black Swamp". The map below depicts the region in 1818 with labels and symbols for swamp landcover. Although the landscape has changed significantly, it is a fact that there were many streams and rivers indicative of low-lying land and perhaps 'swamp-like' terrain.
 
 > Phase Three: Homer to Shipman’s Corners  
@@ -116,8 +117,8 @@ OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
 Inserting swipe map content.  
 ![swipe](./assets/image5.jpg)
 
-1. Click the plus sign and add an immersive element called SWIPE.  
-2.	Click Add web map on the LEFT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910.  
+1. Click the plus sign and add a media element called SWIPE.  
+2.	Click Add web map on the LEFT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910. Zoom in if necessary. 
 3.	Click Place map.   
 4.	Click Add web map on the RIGHT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 so that just the route, destinations and basemap are showing.  
 5.	Click Place map.  
@@ -147,7 +148,7 @@ Inserting swipe map content.
 
 ArcGIS StoryMaps offer various preview options (desktop, tablet, mobile). See how your story behaves using each option.  
 1.	At the top of the editor window, click Preview.  
-2.	Click Edit Story to return to the Editor.  
+2.	Close the preview options tool to return to the Editor.  
 3.	Click Publish and set the sharing option to Everyone (Public) then click Publish story.  
 When a storymap has been shared publicly, there will be links to various social media for sharing.  
 

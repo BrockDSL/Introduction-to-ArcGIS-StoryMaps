@@ -13,7 +13,7 @@ The subject matter for this storymap includes multi-media pieces describing the 
 In preparation for this workshop, you will need an ArcGIS Online account. Brock University affiliates will use their Brock credentials to sign into ArcGIS Online. Public users can sign up for a free public account [here](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token).
 
 Required:
- - ArcGIS Online is a cloud-based GIS software. No installation is required.
+ - ArcGIS Online and ArcGIS StoryMaps are cloud-based software tools. No installation is required.
  - A public or organizational account is required.  
 
 

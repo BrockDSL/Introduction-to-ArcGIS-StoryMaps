@@ -20,13 +20,13 @@ Required:
 ----
 
 ## Helpful Materials
-[Introduction to ArcGIS Online - Tutorial](Tutorial.md)  
+[Introduction to ArcGIS Online - Tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial)  
 
 
 ----
 
 ## Follow Up Material
-[Introduction to ArcGIS Storymaps - Tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps-Tutorial.md)    
+[Introduction to ArcGIS Storymaps - Tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps/Introduction-to-ArcGIS-StoryMaps-Tutorial)    
 
 
 ----

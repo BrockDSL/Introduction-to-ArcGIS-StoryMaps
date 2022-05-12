@@ -26,7 +26,7 @@ Required:
 ----
 
 ## Follow Up Material
-[Introduction to ArcGIS Storymaps - Tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps-Tutorial/)    
+[Introduction to ArcGIS Storymaps - Tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-StoryMaps-Tutorial.md)    
 
 
 ----

@@ -58,9 +58,10 @@ Let’s get started!
 2.	Click the plus icon and select Sidecar under the immersive section. A sidecar allows you to have a ‘main stage’ of content with a scrolling ‘sidecar’ of additional information.  
 3.	Select the ‘docked’ option. Click Done.   
 4.	For the main stage on the right, Add media > Add map  
-5.	Select My Organization tab and search for “Laura Secord’s Famous Walk to Thorold”. 
-6. Click the star to add the map to your favourites.  
-7.	Click the search result and click Place Map.   
+5. Select the map created in the **[Introduction to ArcGIS Online tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial)**	
+6. Alternately, select My Organization tab and search for “Laura Secord’s Famous Walk to Thorold”. 
+7. Click the star to add the map to your favourites.  
+8.	Click the search result and click Place Map.   
 
  ![card](./assets/image3.jpg)  
 

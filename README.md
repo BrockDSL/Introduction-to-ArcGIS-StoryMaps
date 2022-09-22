@@ -21,7 +21,7 @@ Required:
 
 ## Helpful Materials
 [Introduction to ArcGIS Online - Tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial)  
-
+[Citing Sources for ArcGIS StoryMaps](https://www.esri.com/arcgis-blog/products/story-maps/sharing-collaboration/citations/)
 
 ----
 

@@ -12,10 +12,10 @@ Let’s get started!
 2.	Go to [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and sign in using your Brock University credentials. 
 > **HINT**: Click **Your ArcGIS organization's URL**; enter **Brock** to complete the URL; click **Brock University** (this will take you to the Brock authentication page.) 
 3.	The home page will list any storymaps you’ve already created. If you’re new to the platform, get started by clicking **+New Story > Start from scratch**. 
-4.	Add a title (Walking Laura’s Way) and subtitle (a story about Laura Secord’s famous journey)
-5.	At the top right of the workspace, click Add Cover Image or video     
-6.	Navigate to the LauraSecordImages folder and select an image (TwelveMileCreekPainting.jpg) Courtesy of Toronto Public Library.  
-7.	Click Design at the top centre of the window. Explore the design options available. For example, change the cover settings, turn on Navigation (explained later) and select a Theme (Tidal).  
+4.	Add a title (Walking Laura’s Way) and subtitle (a story about Laura Secord’s famous journey).
+5.	At the top right of the workspace, click **Add Cover Image or video**.     
+6.	Navigate to the **LauraSecordImages** folder and select an image (TwelveMileCreekPainting.jpg Courtesy of Toronto Public Library).  
+7.	Click Design at the top centre of the window. Explore the design options available. For example, change the cover settings, turn on Navigation (explained later) and select a **Theme (Tidal)**.  
 
 ![cover](./assets/cover.jpg)
 

@@ -1,0 +1,3 @@
+This session will introduce you to the basics of using ArcGIS Storymaps to share maps, images, videos and narrative content by using data and details surrounding Laura Secord's historic journey across the region.  
+
+No experience with Storymaps in needed for this session.

@@ -1,3 +1,4 @@
-This session will introduce you to the basics of using ArcGIS Storymaps to share maps, images, videos and narrative content by using data and details surrounding Laura Secord's historic journey across the region.  
+Join us on the continuing journey of Laura Secord as we introduce you to the basics of creating an ArcGIS StoryMap. Using this web-based story-telling tool, you will be able to share narrative, videos, images and maps to your audience. ArcGIS StoryMaps is a wonderful platform for sharing a variety of content. You are encouraged to use this tool as an alternative to other webpage development tools and it’s absolutely free!
 
 No experience with Storymaps in needed for this session.
+

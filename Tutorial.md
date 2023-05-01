@@ -52,7 +52,7 @@ Let’s get started!
   ---
 ### Section Four  
 
- 1.	Click the plus icon and select the embed option. This feature allows you to paste a link to content such as this video [https://youtu.be/_L-vL5NFkYA](https://youtu.be/_L-vL5NFkYA) OR <iframe> code from another website ( <iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1fG8fP0"></iframe> ) or simply a URL ( https://arcg.is/1fG8fP0 ). Try various options and see the result.   
+ 1.	Click the plus icon and select the **embed** option. This feature allows you to paste a link to content such as this video [https://youtu.be/_L-vL5NFkYA](https://youtu.be/_L-vL5NFkYA) OR <iframe> code from another website ( <iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1fG8fP0"></iframe> ) or simply a URL ( https://arcg.is/1fG8fP0 ). Try various options and see the result.   
  2. If you are using a **Public** account, click **Video** from the insert menu and paste the video URL https://youtu.be/_L-vL5NFkYA
 
 
@@ -60,16 +60,15 @@ Let’s get started!
   
 ### Section Five  
 
-1.	Add text and format as a heading (“The 5 Phases of Laura’s Walk”)  
-2.	Click the plus icon and select Sidecar under the immersive section. A sidecar allows you to have a ‘main stage’ of content with a scrolling ‘sidecar’ of additional information.  
-3.	Select the ‘docked’ option. Click Done.   
-4.	For the main stage on the right, Add media > Add map  
+1.	Add text and format as a heading: **Five Phases of Laura’s Walk**  
+2.	Click the plus icon and select **Sidecar** under the immersive section. A sidecar allows you to have a ‘main stage’ of content with a scrolling ‘sidecar’ of additional information.  
+3.	Select the **Docked** option. Click Done.   
+4.	For the main stage on the right, **Add > Add map**.  
 5. Select the map created in the **[Introduction to ArcGIS Online tutorial](https://brockdsl.github.io/Introduction-to-ArcGIS-Online/Tutorial)**	
-6. Alternately, select My Organization tab and search for “Laura Secord’s Famous Walk to Thorold”. 
-7. Click the star to add the map to your favourites.  
-8.	Click the search result and click Place Map.   
+6. Alternately, if you are using an **Organizational account** (Brock affiliates) select **My Organization** tab and search for “Laura Secord’s Famous Walk to Thorold”. 
+7. Click the search result and click **Place Map**.   
 
- ![card](./assets/image3.jpg)  
+    ![insert map card](./assets/image3.jpg)  
 
 ---
 

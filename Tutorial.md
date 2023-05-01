@@ -40,8 +40,7 @@ Let’s get started!
 2. Change the settings to float. 
 3. Add a caption "A map of Laura Secord's walk".  
 4. Click the gears button to access options including attribution and alternative text for screen readers.  
-5. Copy the attribution from here: **Map of Laura Secord's Walk from the book, The Canadians: Laura Secord,
-by John M. Bassett/A. Roy Petrie, 1974, Fitzhenry and Whiteside**
+5. Copy the attribution from here: **Map illustration by Laszlo Gal.**
 
 6. To the right of the map, +Continue your story by adding the text: 
 

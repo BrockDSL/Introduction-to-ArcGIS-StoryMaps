@@ -53,6 +53,7 @@ Let’s get started!
 ### Section Four  
 
  1.	Click the plus icon and select the embed option. This feature allows you to paste a link to content such as this video [https://youtu.be/_L-vL5NFkYA](https://youtu.be/_L-vL5NFkYA) OR <iframe> code from another website ( <iframe width="1080" height="720" frameborder="0" scrolling="no" allowfullscreen src="https://arcg.is/1fG8fP0"></iframe> ) or simply a URL ( https://arcg.is/1fG8fP0 ). Try various options and see the result.   
+ 2. If you are using a **Public** account, click **Video** from the insert menu and paste the video URL https://youtu.be/_L-vL5NFkYA
 
 
   ---

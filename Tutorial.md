@@ -39,8 +39,11 @@ Let’s get started!
 1. Scroll down, click the plus sign and add an image (MapLauraSecordsWalk.jpg).  
 2. Change the settings to float. 
 3. Add a caption "A map of Laura Secord's walk".  
-4. Click the gears button to access options including alternative text for screen readers.  
-5. To the right of the map, +Continue your story by adding the text: 
+4. Click the gears button to access options including attribution and alternative text for screen readers.  
+5. Copy the attribution from here: **Map of Laura Secord's Walk from the book, The Canadians: Laura Secord,
+by John M. Bassett/A. Roy Petrie, 1974, Fitzhenry and Whiteside**
+
+6. To the right of the map, +Continue your story by adding the text: 
 
 >The map seen here depicts one interpretation of the route that Laura took on June 22, 1813. There were supposedly 5 phases: Queenston to St. Davids, St. Davids to Homer, Homer to Shipman’s Corners, Shipman’s Corners to Power Glen, Power Glen to Decew House
  

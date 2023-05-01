@@ -38,9 +38,9 @@ Let’s get started!
 ### Section Three  
 1. Scroll down, click the plus sign and add an image (MapLauraSecordsWalk.jpg).  
 2. Change the settings to float. 
-3. Add a caption "A map of Laura Secord's walk".  
+3. Add a caption **A map of Laura Secord's walk**.  
 4. Click the gears button to access options including attribution and alternative text for screen readers.  
-5. Copy the attribution from here: **Map illustration by Laszlo Gal.**
+5. Add attribution **Map illustration by Laszlo Gal**.
 
 6. To the right of the map, +Continue your story by adding the text: 
 

@@ -76,10 +76,10 @@ Let’s get started!
 ### Section Six  
 
 1.	On the sidecar panel to the left of the map, add text “Queenston to St. Davids” and format it as a subheading.  
-2.	Below the subheading, click the plus sign and select Map Action.    
+2.	Below the subheading, click the plus sign and select **Map Action** (Organizational users only).    
 3.	Describe this map action as “Phase One”.  
-4.	Click the pencil icon   to activate the map options. Zoom to Phase One of the route (indicated by the purple line on the map).  
-5.	Click Save action at the bottom right of the window.  
+4.	Click the pencil icon to activate the map options. Zoom to *Phase One* of the route (indicated by the purple line on the map).  
+5.	Click **Save action** at the bottom right of the window.  
 6.	Below the Phase One button, add a paragraph of text describing phase one: 
 
 > It must've been early in the morning on June 22nd, 1813 that Laura headed out to save her country. Being a woman wouldn't cause suspicion in her travels and some say that she brought her cow along for the journey... at least part of it. No doubt, she hurried to her relatives' home in St. Davids where she would've sought the help of her half-brother, Charles. However, Charles was sick and so Laura's niece, Elizabeth offered to accompany her. And off they went to Homer.

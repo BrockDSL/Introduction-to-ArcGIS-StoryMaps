@@ -121,12 +121,12 @@ OPTIONAL: insert image “MeetingWithFitzgibbon.jpg”
 ### Section Nine  
 
 Inserting swipe map content.  
-![swipe](./assets/image5.jpg)
+    ![image](https://user-images.githubusercontent.com/45638590/235750636-d29f4086-ec4a-4965-a17a-39405a2973f0.png)
 
 1. Click the plus sign and add a media element called SWIPE.  
-2.	Click Add web map on the LEFT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910. Zoom in if necessary. 
+2.	Click Web map on the LEFT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 and turn on Niagara 1910. Zoom in if necessary. 
 3.	Click Place map.   
-4.	Click Add web map on the RIGHT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 so that just the route, destinations and basemap are showing.  
+4.	Click Web map on the RIGHT and select “Laura’s Famous Walk to Thorold”. Turn off Niagara 1862 so that just the route, destinations and basemap are showing.  
 5.	Click Place map.  
 6.	Resize the map to medium or large (hint, rest the mouse over the swipe window to see the sizing options.  
 
@@ -163,17 +163,6 @@ When a storymap has been shared publicly, there will be links to various social 
 This tutorial was written by Sharon Janzen, sjanzen@brocku.ca
 
 ---
-  
-  
-  
-**This tutorial is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
-
-
-
-
-
-
-
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 

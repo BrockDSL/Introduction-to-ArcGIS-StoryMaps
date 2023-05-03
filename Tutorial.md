@@ -139,7 +139,7 @@ Inserting swipe map content.
 1. Scroll down and click the plus icon to add a "Credits" heading.
 2. Copy and paste your list of credits to this paragraph section:
 
-> Twelve Mile Creek Painting [https://bit.ly/3eBkc7Q](https://bit.ly/3eBkc7Q)  
+> Twelve Mile Creek Painting, Illustrated by Laszlo Gal [https://bit.ly/3eBkc7Q](https://bit.ly/3eBkc7Q)  
 > Map of Laura Secord’s walk [https://bit.ly/3f9tZCn](https://bit.ly/3f9tZCn)  
 > Alun Hughes [https://bit.ly/3gKtYXP](https://bit.ly/3gKtYXP)  
 > Laura Secord’s Famous walk [https://bit.ly/3eGtsr0](https://bit.ly/3eGtsr0)  

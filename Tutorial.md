@@ -7,7 +7,7 @@ ArcGIS StoryMaps provides a platform for sharing maps, images, videos and narrat
 Let’s get started! 
 
 ### Section One
-1.	[Download and unzip the images file](https://github.com/BrockDSL/StoryMapDemo2/blob/master/LauraSecordImages.zip). 
+1.	[Download and unzip the images file](https://github.com/BrockDSL/StoryMapDemo2/blob/master/LauraSecord_IMAGES.zip). 
 > **HINT**: Right-click the link > open in new tab. Then click the **download** button on the right. Navigate to your **Downloads** directory and right-click > Extract all.
 2.	Go to [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and sign in using your Brock University credentials. 
 > **HINT**: Click **Your ArcGIS organization's URL**; enter **Brock** to complete the URL; click **Brock University** (this will take you to the Brock authentication page.) 
